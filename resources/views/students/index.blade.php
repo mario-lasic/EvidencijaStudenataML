@@ -4,6 +4,9 @@
             <h2 class="text-xl font-semibold leading-tight text-gray-800">
                 Studenti
             </h2>
+            <h2 class="text-xl font-semibold leading-tight text-gray-800">
+                CRUD Operacije za studenata
+            </h2>
 
             <a
                 href="{{ route('students.create') }}"
